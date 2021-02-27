@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900645199759",
+    "project_id": "blooddriveapp-e38ea",
+    "storage_bucket": "blooddriveapp-e38ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900645199759:android:3b770da300c672c151f5fa",
+        "android_client_info": {
+          "package_name": "com.example.blooddriveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900645199759-b4euu5ihlosvkqpet8dud7h6ha1sbtdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChUWOJG9mM7ZNDssUclTK0U2kQWKFfphM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900645199759-b4euu5ihlosvkqpet8dud7h6ha1sbtdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
